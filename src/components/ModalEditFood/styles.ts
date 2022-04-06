@@ -1,5 +1,6 @@
 import styled from 'styled-components';
 import { Form as Unform } from '@unform/web';
+import { FormHandles } from '@unform/core';
 
 export const Form = styled(Unform)`
   padding: 48px 40px;
